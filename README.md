@@ -1,7 +1,7 @@
 ### Hello World! 👋
 I am a Junior software Developer, from South Africa
 <br>
-*I am an author who write meaningful stories instead of usings words I use 0's and 1's. As much as words can failures and becomes meaningless over time, I personally believe that Binary can never fail you.*
+*I am an author who write meaningful stories instead of usings words I use 0's and 1's. As much as words can fail us and becomes meaningless over time, I personally believe that Binary can never fail us. They are simple and straight forward is either its 0 or 1.*
 
 - 👨🏼‍🎓 I am currently in the process of finishing my undergraduate Bsc degree in Computer Science and Computer Engineering.
 - 🌱 Software Developer/ Software Engineer in the process
