@@ -24,8 +24,12 @@ I am a Junior software Developer, from South Africa
 <img align="left" alt="c++" src="https://img.shields.io/badge/C++-blue?logo=c++&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-orange?logo=javascript&logoColor=white&style=for-the-badge" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=blue&style=for-the-badge" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/-spring-green?logo=spring&logoColor=white&style=for-the-badge" />
+<img align="left" alt="django" src="https://img.shields.io/badge/-django-darkgreen?logo=python&logoColor=white&style=for-the-badge" />
+<br>
+<br>
+<img align="left" alt="docker" src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=blue&style=for-the-badge" />
 <br>
 <br>
 
