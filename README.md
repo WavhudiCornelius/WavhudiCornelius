@@ -3,10 +3,9 @@ I am a Junior software Developer, from South Africa
 <br>
 *I am an author who write meaningful stories instead of using words I use 0's and 1's. As much as words can fail us and becomes meaningless over time, I personally believe that Binary can never fail us. They are simple and straight forward its either a 0 or 1.*
 
-- 👨🏼‍🎓 Currently finishing my undergraduate Bsc degree in Computer Science and Computer Engineering at The University of Cape Town.
+- 👨🏼‍🎓 Bsc degree in Computer Science and Computer Engineering at The University of Cape Town.
 - 🌱 A Software Developer/Engineer in the process
 - 🌱 Machine Learning and Artificial Intelligence enthusiastic, I am growing in this field one day at a time.
-- 👨‍💻 Looking Software Developer/Engineering role, a Graduate role or an Internship that can potentially lead to a full-time role.
 
 <br>
 
