@@ -15,8 +15,8 @@ I am a Junior software Developer, from South Africa
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/13154889/cornelius-mulaudzi)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MulaudziWavhudi)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-833AB4?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/wavhudi.py/?hl=en)
-<br>
-<br>
+<br/>
+<br/>
 ## Expertise
 <img align="left" alt="java" src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=for-the-badge" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge" />
@@ -26,11 +26,10 @@ I am a Junior software Developer, from South Africa
 <img align="left" alt="mysql" src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=blue&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/-spring-green?logo=spring&logoColor=white&style=for-the-badge" />
 <img align="left" alt="django" src="https://img.shields.io/badge/-django-darkgreen?logo=python&logoColor=white&style=for-the-badge" />
-<br>
-<br>
 <img align="left" alt="docker" src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=blue&style=for-the-badge" />
-<br>
-<br>
+<img align="left" alt="vuejs" src="https://img.shields.io/badge/-vue.js-black?logo=vue.js&logoColor=42b883&style=for-the-badge" />
+<br/>
+<br/>
 
 <!--
 **WavhudiCornelius/WavhudiCornelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
