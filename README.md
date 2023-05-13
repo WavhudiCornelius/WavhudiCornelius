@@ -1,4 +1,4 @@
-### Hello World! 👋
+# Hello World! 👋
 I am a Junior software Developer, from South Africa
 <br>
 *I am an author who writes meaningful stories instead of using words I use 0's and 1's. As much as words can fail us and becomes meaningless over time, I personally believe that Binary can never fail us. They are simple and straight forward its either a 0 or 1.*
@@ -30,6 +30,13 @@ I am a Junior software Developer, from South Africa
 <img align="left" alt="vuejs" src="https://img.shields.io/badge/-vue.js-black?logo=vue.js&logoColor=42b883&style=for-the-badge" />
 <br/>
 <br/>
+
+## Github Stats ⚡  
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=WavhudiCornelius&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WavhudiCornelius&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+### Currently Listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i36lrmsgfre56jp0q2lmanat1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **WavhudiCornelius/WavhudiCornelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
