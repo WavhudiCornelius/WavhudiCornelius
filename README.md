@@ -32,7 +32,7 @@ I am a Junior software Developer, from South Africa
 <br/>
 
 ## Github Stats ⚡  
-<a href="#">![Github stats](https:github-readme-stats-new-pi.vercel.app/api?username=WavhudiCornelius&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Github stats](https://github-readme-stats-new-pi.vercel.app/api?username=WavhudiCornelius&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats-new-pi.vercel.app/api/top-langs/?username=WavhudiCornelius&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 ### Currently Listening to:
