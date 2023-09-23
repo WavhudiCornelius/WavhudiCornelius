@@ -32,8 +32,8 @@ I am a Junior software Developer, from South Africa
 <br/>
 
 ## Github Stats ⚡  
-<a href="#">![Github stats](https://github-readme-stats-kappa-eight-76.vercel.app/api?username=WavhudiCornelius&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats-kappa-eight-76.vercel.app/api/top-langs/?username=WavhudiCornelius&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https:github-readme-stats-new-pi.vercel.app/api?username=WavhudiCornelius&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats-new-pi.vercel.app/api/top-langs/?username=WavhudiCornelius&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 ### Currently Listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i36lrmsgfre56jp0q2lmanat1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
