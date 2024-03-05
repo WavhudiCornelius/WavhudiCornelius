@@ -31,6 +31,10 @@ I am a Junior software Developer, from South Africa
 <br/>
 <br/>
 
+## Current Project
+Music Transfer Hub, a cutting-edge web service designed to seamlessly transfer your favorite playlists across different music streaming platforms. Built with Vue.js 3, this project leverages the latest in web development technologies to provide a smooth, user-friendly experience. Whether you're moving from Spotify to Apple Music, YouTube Music to Deezer, or any other service, Music Transfer Hub makes the process effortless.
+[Music Transfer Hub Repo](https://github.com/WavhudiCornelius/Playlist-Transfer)
+
 ## Github Stats ⚡  
 <a href="#">![Github stats](https://github-readme-stats-new-pi.vercel.app/api?username=WavhudiCornelius&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats-new-pi.vercel.app/api/top-langs/?username=WavhudiCornelius&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
