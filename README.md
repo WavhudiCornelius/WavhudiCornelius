@@ -36,8 +36,8 @@ Music Transfer Hub, a cutting-edge web service designed to seamlessly transfer y
 [Music Transfer Hub Repo](https://github.com/WavhudiCornelius/MusicTransferHub)
 
 ## Github Stats ⚡  
-<a href="#">![Github stats](https://github-readme-stats-new-pi.vercel.app/api?username=WavhudiCornelius&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats-new-pi.vercel.app/api/top-langs/?username=WavhudiCornelius&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+![Wavhudi Github stats](https://github-readme-stats-new-pi.vercel.app/api?username=WavhudiCornelius&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-new-pi.vercel.app/api/top-langs/?username=WavhudiCornelius&layout=donut&theme=transparent&count_private=true&&langs_count=8)
 
 ### Currently Listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i36lrmsgfre56jp0q2lmanat1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
