@@ -5,7 +5,7 @@ I am a Junior software Developer, from South Africa
 
 - 👨🏼‍🎓 Bsc degree in Computer Science and Computer Engineering at The University of Cape Town.
 - 🌱 A Software Developer/Engineer in the process
-- 🌱 Machine Learning and Artificial Intelligence enthusiastic, I am growing in this field one day at a time.
+- 🌱 Machine Learning and Artificial Intelligence enthusiastic.
 
 <br>
 
