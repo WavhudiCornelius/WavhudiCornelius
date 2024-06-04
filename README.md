@@ -39,9 +39,10 @@ Music Transfer Hub, a cutting-edge web service designed to seamlessly transfer y
 ![Wavhudi Github stats](https://github-readme-stats-3mrp.vercel.app/api?username=wavhudimulaudzi&theme=transparent&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats-3mrp.vercel.app/api/top-langs/?username=wavhudimulaudzi&layout=donut&theme=transparent&count_private=true&&langs_count=8)
 
+<!--
 ### Currently Listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i36lrmsgfre56jp0q2lmanat1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+-->
 <!--
 **WavhudiCornelius/WavhudiCornelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
